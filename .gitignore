@@ -1,3 +1,6 @@
+# Qt-creator things
+*.user
+
 # Prerequisites
 *.d
 
